@@ -8,6 +8,9 @@ The analysis focuses on monthly calls, internet traffic and SMS usage, identifie
 
 The goal is to support decisions about potential tariff updates and targeted offers for highly active customers.
 
+## SQL Analysis
+
+[View SQL code](telecom_tariff_analysis.sql)
 
 ## Data
 
